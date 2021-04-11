@@ -1,0 +1,4 @@
+baseURL = "https://joanrodrigues.com/blog"
+languageCode = "pt-br"
+title = "Joan Rodrigues"
+theme = "swift" 
